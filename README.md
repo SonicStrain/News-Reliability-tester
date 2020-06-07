@@ -9,4 +9,4 @@ Detecting 'FAKE' news using machine learning.
 4. Now run the "txt2csv.py" to convert the txt file into a csv file
 5. Finally run the "predict_news.py" to generate the result
 
-### the dataset used here is a dataset of political news
+##### the dataset used here is a dataset of political news
