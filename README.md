@@ -1,6 +1,11 @@
 # Fake-News-Detection
 Detecting 'FAKE' news using machine learning.
 
+##prerequisites
+1. sklearn
+2. pandas
+3. csv
+
 ## Usage Instructions:
 
 1. Extract the file news_for_training.csv from news_for_training and paste it to ../Fake News Detection/Codes/
