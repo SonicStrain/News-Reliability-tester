@@ -1,7 +1,8 @@
 # Fake-News-Detection
 Detecting 'FAKE' news using machine learning.
 
-##prerequisites
+## Prerequisites
+
 1. sklearn
 2. pandas
 3. csv
