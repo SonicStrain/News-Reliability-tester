@@ -3,6 +3,8 @@ Detecting 'FAKE' news using machine learning.
 
 ## Prerequisites
 
+Python 3.x should be installed along with the followong libraries:
+
 1. sklearn
 2. pandas
 3. csv
