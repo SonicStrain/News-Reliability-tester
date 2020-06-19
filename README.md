@@ -1,5 +1,6 @@
 # Fake-News-Detection
 Detecting 'FAKE' news using machine learning.
+Gather a news a test it if it is 'REAL' or 'FAKE'.
 
 ## Prerequisites
 
