@@ -1,6 +1,5 @@
-# Fake-News-Detection
+# News Reliability checker
 Detecting 'FAKE' news using machine learning.
-
 Gather a news and test it if it is 'REAL' or 'FAKE'.
 
 ## Prerequisites
